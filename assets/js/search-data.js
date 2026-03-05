@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-03-05-amplifiers/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -389,17 +400,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/disqus-comments/";
-          
-        },
-      },{id: "post-amps",
-        
-          title: "amps",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/amplifiers/";
           
         },
       },{id: "post-a-post-with-math",
