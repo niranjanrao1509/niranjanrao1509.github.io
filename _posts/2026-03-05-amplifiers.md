@@ -1,7 +1,7 @@
 ---
 layout: post
 title: amps
-date: 2026-03-05 11:12:00-0400
+date: 2026-03-05 
 description: intro to amplifiers
 tags: formatting math
 categories: sample-posts
@@ -9,12 +9,7 @@ related_posts: false
 ---
 
 # What is an Amplifier?
-Waht is an  amp? Power amp vs small signal amps? This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine. You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`. If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
-
-# V-I Characteristics 
-
-
-To use display mode, again surround your expression with `$$` and place it as a separate paragraph. Here is an example:
+Waht is an  amp? Power amp vs small signal amps? This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine. You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`. If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$. To use display mode, again surround your expression with `$$` and place it as a separate paragraph. Here is an example:
 
 $$
 \sum_{k=1}^\infty |\langle x, e_k \rangle|^2 \leq \|x\|^2
