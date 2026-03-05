@@ -391,6 +391,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/disqus-comments/";
           
         },
+      },{id: "post-amps",
+        
+          title: "amps",
+        
+        description: "an example of a blog post with some math",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/amplifiers/";
+          
+        },
       },{id: "post-a-post-with-math",
         
           title: "a post with math",
