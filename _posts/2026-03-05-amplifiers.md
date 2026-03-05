@@ -3,7 +3,7 @@ layout: post
 title: amps
 date: 2026-03-05 11:12:00-0400
 description: intro to amplifiers
-tags: 
+tags: formatting math
 categories: sample-posts
 related_posts: false
 ---
